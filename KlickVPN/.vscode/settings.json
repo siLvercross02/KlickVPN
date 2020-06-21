@@ -1,0 +1,4 @@
+{
+    "LiveServer.settings.AdvanceCustomBrowserCmdLine": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe --private-window",
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode"
+}
